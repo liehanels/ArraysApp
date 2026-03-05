@@ -12,7 +12,7 @@ This project is an educational demonstration designed to bridge the gap between 
 * **Dynamic Inventory Display:** Iterates through a Kotlin `Array<String>` and renders the contents to a `TextView`.
 * **Add Loot Mechanism:** Demonstrates how arrays handle size constraints by creating a new, larger array under the hood when the user adds an item.
 * **Linear Search:** Implements a manual `for` loop search to find specific items, showcasing early algorithm design before abstracting to built-in functions.
-* **Responsive UI:** Utilises `ConstraintLayout` to ensure the app scales perfectly across different device screens without looking like absolute crap.
+* **Responsive UI:** Utilises `ConstraintLayout` to ensure the app scales perfectly across different device screens without looking like an absolute mess.
 
 ## 🛠️ Tech Stack
 * **Language:** Kotlin
