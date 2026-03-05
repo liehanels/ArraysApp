@@ -14,13 +14,6 @@ This project is an educational demonstration designed to bridge the gap between 
 * **Linear Search:** Implements a manual `for` loop search to find specific items, showcasing early algorithm design before abstracting to built-in functions.
 * **Responsive UI:** Utilises `ConstraintLayout` to ensure the app scales perfectly across different device screens without looking like absolute crap.
 
-## 📸 Screenshots
-*(Replace these placeholders with actual screenshots of your running app)*
-
-| Initial Inventory | Adding an Item | Searching for Loot |
-| :---: | :---: | :---: |
-| <img src="link_to_your_screenshot_1.png" width="200"/> | <img src="link_to_your_screenshot_2.png" width="200"/> | <img src="link_to_your_screenshot_3.png" width="200"/> |
-
 ## 🛠️ Tech Stack
 * **Language:** Kotlin
 * **IDE:** Android Studio
